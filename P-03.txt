@@ -1,0 +1,35 @@
+TypeScript es un lenguaje de programación que se ha vuelto popular en el desarrollo web. Algunas características clave son:
+
+Tipado estático: Permite declarar tipos de variables y detectar errores en tiempo de compilación.
+Interfaces: Define contratos para objetos.
+Compilación: Se compila a JavaScript.
+Mejor autocompletado y herramientas de IDE: Facilita el desarrollo.
+Legibilidad y mantenibilidad: Código más expresivo.
+Compatibilidad con JavaScript: Puede usar código JS existente.
+Soporte para módulos y namespaces: Organiza el código.
+
+Diferencias:
+TypeScript y JavaScript son dos lenguajes de programación muy utilizados en el desarrollo web. 
+Aunque son similares en muchos aspectos, también tienen algunas diferencias:
+
+1.-Tipado: JavaScript es un lenguaje de tipado dinámico, lo que significa que las variables pueden cambiar de tipo durante 
+la ejecución del programa. Por otro lado, TypeScript es un lenguaje de tipado estático, lo que permite detectar errores 
+antes de que el código se ejecute.
+2.-Compilación: JavaScript no necesita ser compilado, se ejecuta directamente en el navegador o en el servidor. Esto lo 
+hace más rápido y accesible. En cambio, TypeScript necesita ser traspilado a código JavaScript válido para poder ser 
+interpretado por el cliente o el servidor.
+3.-Características adicionales: TypeScript agrega características adicionales que no están disponibles en JavaScript, 
+como los tipos estáticos, interfaces, decoradores, entre otros.
+4.-Dificultad de aprendizaje: JavaScript es muy sencillo de aprender, especialmente para las personas que están comenzando 
+en la programación. TypeScript, al ser un superconjunto de JavaScript, tiene la misma sintaxis que JavaScript, por lo 
+que si ya dominas JS, entonces te será muy fácil aprender TypeScript. Sin embargo, TypeScript es más complejo y puede 
+ser más difícil de aprender para los principiantes debido a las características adicionales que ofrece.
+5.-Módulos: TypeScript soporta módulos, lo que permite organizar y modularizar tu código1. JavaScript no admite módulos.
+6.-Interfaz: TypeScript introduce el concepto de interfaces, que son una forma de definir contratos dentro de tu código.
+JavaScript no tiene una característica equivalente.
+7.-Compilación: En TypeScript, el código debe ser compilado (o transpilado) a JavaScript antes de que pueda ser ejecutado. 
+En JavaScript, no es necesario compilar el código.
+8.-Curva de aprendizaje: TypeScript puede ser más difícil de aprender al principio debido a su tipado estático y otras 
+características adicionales. JavaScript, por otro lado, es conocido por ser un lenguaje fácil de aprender.
+9.-Orientación a objetos: TypeScript es conocido como un lenguaje de programación orientado a objetos, mientras que 
+JavaScript es un lenguaje de secuencias de comandos.
